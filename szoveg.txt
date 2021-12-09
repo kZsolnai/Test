@@ -1,2 +1,3 @@
 LEDmatrix
 1) könyvtár keresése
+2) hazamenni
